@@ -134,15 +134,6 @@ npm run dev
 
 ---
 
-## 👥 Contributors
-
-**Civix Team - Infosys 2025 Internship Program - Civic Team 03**
-- [Kodali Lohitha](https://github.com/lohi-cell)
-- [Bontha Vijay](https://github.com/Vijay-1807)
-- [Deepak](https://github.com/Deepakkumarkhatoi)
-- [Aniket](https://github.com/Aniket-876)
-
----
 
 ## 📄 License
 
