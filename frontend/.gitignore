@@ -1,0 +1,42 @@
+# Node
+node_modules/
+**/node_modules/
+
+# Builds / production output
+dist/
+build/
+out/
+*.tgz
+
+# Lock files (optional)
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Env & secrets
+.env
+.env.local
+.env.*.local
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Misc caches
+.vite/
+.cache/
+.sass-cache/
+
+# Optional large binaries
+*.zip
+*.tar
+*.gz
+*.exe
+*.dll
